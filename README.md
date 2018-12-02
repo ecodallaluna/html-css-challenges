@@ -1,6 +1,8 @@
 # html-css-challenges
 Challenges completed while learning html-css
 
+![FFC Web Certification](https://raw.githubusercontent.com/ecodallaluna/html-css-challenges/master/FCC-certification1-web.png | width=25)
+
 ## On freecodecamp.org
 
 ### Responsive Web Design Projects
